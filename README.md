@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel Fridman
-- 🌱 I’m currently learning Computer Science in Ariel University
+- 🌱 I’m currently studying Mathematics and Computer Science in Ariel University
 - 📫 How to reach me linkedin.com/in/daniel-fridman-936715210
 
 <!---
